@@ -1,5 +1,5 @@
-### 我的第一个GitHub仓库
-### Git笔记
+### Git&Github
+
 #### 0、Git与SVN的区别
 - **1、Git 是分布式的，SVN 不是**
 - **2、Git 把内容按元数据方式存储，而 SVN 是按文件**
@@ -109,6 +109,8 @@ $ git push -u origin master
 $ git fetch origin  # 获取远程仓库最新分支
 $ git merge origin/master # 合并分支  
 $ git push origin master    # 推送到 Github
+
+## 删除远程仓库
+$ git remote -v  # 查看远程仓库
+$ git remote rm [别名]
 ```
-
-
