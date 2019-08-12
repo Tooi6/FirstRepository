@@ -11,8 +11,8 @@
 
 ```
 ## 用户信息
-$ git config --global user.name "runoob"
-$ git config --global user.email test@runoob.com
+$ git config --global user.name "Tooi6"
+$ git config --global user.email test@Tooi.com
 ## 文本编辑器
 $ git config --global core.editor emacs
 ## 差异分析工具
