@@ -114,4 +114,4 @@ $ git push origin master    # 推送到 Github
 $ git remote -v  # 查看远程仓库
 $ git remote rm [别名]
 ```
-#### 3、IDEA使用git
+#### 3、IDEA使用Git
